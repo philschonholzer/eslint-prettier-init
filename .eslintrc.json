@@ -16,13 +16,10 @@
     "prettier/prettier": [
       "error",
       {
+        "semi": false,
         "singleQuote": true,
-        "trailingComma": "all",
-        "semi": false
+        "trailingComma": "all"
       }
-    ],
-    "no-underscore-dangle": "off",
-    "no-nested-ternary": "off",
-    "no-console": "off"
+    ]
   }
 }
