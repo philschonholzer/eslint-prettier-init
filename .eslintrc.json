@@ -13,13 +13,6 @@
     "ecmaVersion": 2018
   },
   "rules": {
-    "prettier/prettier": [
-      "error",
-      {
-        "semi": false,
-        "singleQuote": true,
-        "trailingComma": "all"
-      }
-    ]
+    "prettier/prettier": "error"
   }
 }
