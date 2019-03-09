@@ -9,7 +9,8 @@
   "main": "index.js",
   "bin": "bin.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "publish:npm": "npx np"
   },
   "keywords": [
     "eslint",
