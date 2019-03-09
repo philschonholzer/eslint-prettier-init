@@ -1,6 +1,6 @@
 {
   "name": "eslint-prettier-init",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Setup ESLint and Prettier with ease",
   "main": "index.js",
   "bin": "bin.js",
