@@ -11,7 +11,10 @@
   "scripts": {
     "test": "ava"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
   "author": "Philip Schoenholzer",
   "license": "MIT",
   "dependencies": {
