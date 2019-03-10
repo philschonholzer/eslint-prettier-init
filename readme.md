@@ -8,6 +8,6 @@ Setting ESLint and Prettier up is every time a challange. With `eslint-prettier-
 npx eslint-prettier-init
 ```
 
-## Attributes
+## Attribution
 
-Thanks to @eslint, @prettier and @gabrielperales for the inspiration and code. :P
+Thanks to @eslint, @prettier and @gabrielperales for being giants. :P
