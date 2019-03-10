@@ -10,7 +10,7 @@
   "bin": "bin.js",
   "scripts": {
     "test": "ava",
-    "publish:npm": "npx np"
+    "release": "np"
   },
   "keywords": [
     "eslint",
@@ -36,6 +36,7 @@
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-prettier": "^3.0.1",
+    "np": "^4.0.2",
     "prettier": "^1.16.4",
     "rewire": "^4.0.1"
   },
