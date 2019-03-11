@@ -1,6 +1,6 @@
 {
   "name": "eslint-prettier-init",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Setup ESLint and Prettier with ease",
   "repository": {
     "type": "git",
