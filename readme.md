@@ -8,6 +8,10 @@ Setting ESLint and Prettier up is every time a challange. With `eslint-prettier-
 npx eslint-prettier-init
 ```
 
+## Demo
+
+![Demo Video](demo.gif)
+
 ## Attribution
 
 Thanks to @eslint, @prettier and @gabrielperales for being giants. :P
